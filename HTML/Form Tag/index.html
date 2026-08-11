@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form tags</title>
+</head>
+<body>
+    <form action="./action.hph">
+        <input type="text" placeholder="Enter Name">
+        <input type="password" placeholder="password">
+        <label for="101">
+        <input type="radio" value="Class XI" name="class" id="101">Class XI</label>
+        <label for="102"><input type="radio" value="Class XII" name="class" id="102">Class XII</label>
+        <!-- checkbox -->
+         <br>
+         <label for="math">
+            <input type="checkbox"value"math" name="subject" id="101">Mathematics
+         </label>
+                  <label for="physics">
+            <input type="checkbox"value"math" name="subject" id="102">Physics
+         </label>
+                  <label for="math">
+            <input type="checkbox"value"Computer Science" name="subject" id="103">Computer Science
+         </label>
+                  <label for="math">
+            <input type="checkbox"value"English" name="subject" id="104">English
+         </label>
+                  <label for="math">
+            <input type="checkbox"value"Pak Studies" name="subject" id="105">pak Studies
+         </label>
+         <!-- select  -->
+          <select name="city" id="city">
+            <option value="Skardu">Skardu</option>
+            <option value="Gilgit">Gilgit</option>
+            <option value="Karachi">Karachi</option>
+            <option value="lahore">Lahore</option>
+            <option value="Multan">Multan</option>
+            <option value="HaiderAbad">HaiderAbad</option>
+          </select>
+         <!-- feedback -->
+         <textarea name="feedback" id="" placeholder="Please give your valuble feedback" rows="10">Feedback</textarea>
+         <br>
+        <input type="submit" value="submit">
+    </form>
+</body>
+</html>

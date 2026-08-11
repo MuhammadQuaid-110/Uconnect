@@ -1,0 +1,17 @@
+.box{
+    height: 200px;
+    width: 200px;
+    justify-content: center;
+    text-align: center;
+    background-color: #ffff24;
+
+    /* transition-property: transform;
+    transition-duration: 2s;
+    transition-timing-function: ease;
+    transition-delay: 0s; */
+    transition: transform 2s ease 0s , background-color 2s ease 0s;
+}
+.box:hover{
+    transform: rotate(-190deg);
+    background-color: rgba(255, 0, 0, 0.993);
+}

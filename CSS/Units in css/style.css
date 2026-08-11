@@ -1,0 +1,13 @@
+/* Font-size */
+.para1{
+    font-size: 26px;
+    line-height: 50px;
+}
+.para2{
+    font-size :20px; 
+    text-transform: uppercase;
+}
+/* text-transform */
+.para3{
+    text-transform: capitalize;
+}

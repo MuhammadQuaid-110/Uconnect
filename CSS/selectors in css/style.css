@@ -1,0 +1,15 @@
+/* Universal selector  */
+*{
+    background-color: rgb(4, 252, 252);
+}
+/* Element Selector */
+h1{
+    background-color: rgb(253, 1, 1);
+    color: #00ff00;
+}
+/* ID Selector*/
+#firstid{
+    background-color: blue;
+    font-size: 30px;
+    color: #fff;
+}

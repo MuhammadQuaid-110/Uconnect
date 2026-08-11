@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+#outer{
+    font-size: 25px;
+    background-color: aqua;
+}
+#inner{
+     font-size: 10px;
+    background-color: rgb(25, 0, 255);
+}

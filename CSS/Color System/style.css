@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(255,0,0);
+    color: rgb(255, 255,255);
+}
+h2{
+    background-color: rgb(0,2550,0);
+    color: rgb(0, 0 , 255);
+}
+h3{
+    background-color: #00ff00;
+}
+p{
+    color: #00ff00  ;
+    background-color: #ffff00;
+}

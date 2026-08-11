@@ -1,0 +1,34 @@
+divI{
+    display: inline;
+}
+
+button{
+    display: block;
+}
+div{
+    /* display: inline; */
+    display: inline-block;
+}
+.Box1{
+    width: 200px;
+    height: 200px;
+    margin: 25px;
+    padding: 25px;
+    background-color: #ff0000;
+}
+.Box2{
+    width: 200px;
+    height: 200px;
+    margin: 25px;
+    padding: 25px;
+    /* display: none; */
+    visibility: hidden;
+    background-color: #1100ff;
+}
+.Box3{
+    width: 200px;
+    height: 200px;
+     margin: 25px;
+    padding: 25px;
+    background-color: #00ff00;
+}

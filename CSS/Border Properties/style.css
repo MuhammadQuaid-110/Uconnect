@@ -1,0 +1,28 @@
+.borderI{
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    background-color: aquamarine;
+    border: 2px solid black;
+    border-style: dashed;
+    border-radius: 20px 50px;
+}
+.borderII{
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    background-color: aquamarine;
+    border: 2px solid black;
+    border-style: dashed;
+    border-radius: 20px;
+}
+.borderIII{
+    width: 300px;
+    height: 300px;
+    background-color: aqua;
+    border-width: 2px;
+    border-color: rgb(5, 5, 5);
+    border-style: groove;
+    align-items: center;
+    border-radius: 50%;
+}
