@@ -1,0 +1,26 @@
+#box{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    font-size: 10px;
+}
+#boxI{
+    height: 50px;
+    width: 50%;
+    background-color: yellow;
+    margin-left: 10%;
+    font-size: 2em;
+    /* width: 5em; */
+    width: 5rem;
+}
+#box-1{
+    width: 98vw;
+    height: 100vh;
+    background-color: blue;
+}
+#box-2{
+    width: 50vw;
+    height: 50vh;
+    background-color: brown;
+
+}
