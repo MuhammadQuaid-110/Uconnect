@@ -1,0 +1,26 @@
+div{
+    width: 580px;
+    height: 500px;
+    gap: 30px;
+    background-color: rgb(64, 177, 177);
+    text-align: center;
+    align-content: center;
+    color: aliceblue;
+    font-size: 40px;
+    display: inline-block;
+}
+.box1{
+    background-image: url(../../Images/Lack.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.box2{
+    background-image: url(../../Images/river.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.box3{
+    background-image: url(../../Images/land.webp);
+     background-size: cover;
+    background-repeat: no-repeat;
+}

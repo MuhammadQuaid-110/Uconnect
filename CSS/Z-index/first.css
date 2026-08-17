@@ -8,21 +8,19 @@ div{
 .box1{
     position: static;
     background-color: blue;
+    z-index: 8px;
     top: 20px;
 }
 .box2{
     position: relative;
     background-color: red;
-    top: 30px;
+    top: -0px;
     left: 40px;
+
 }
 .box3{
     position: sticky;
+    z-index: -4;
     background-color: greenyellow;
     top: 0;
-}
-.box4{
-    position: fixed;
-    top: 0;
-
 }

@@ -1,0 +1,17 @@
+div{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+@media (mix-width :  600px) {
+    div{
+        background-color: rgb(100, 153, 51);
+    }
+    
+}
+@media (min-width: 300px) {
+    div{
+        background-color: red;
+    }
+    
+}
