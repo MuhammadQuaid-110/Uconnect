@@ -1,0 +1,25 @@
+div{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    border: 2px solid black;
+    position: relative;
+    left: 90px;
+    top: 100px;
+    animation: percentage 5s ease 2s infinite normal;
+}
+@keyframes percentage {
+    0%{
+        left: 0px;
+        background-color: red;
+
+    }
+    50%{
+        left: 300px;
+        background-color: blue;
+    }
+    90%{
+        left: 400px;
+        background-color: green;
+    }
+}

@@ -1,0 +1,18 @@
+div{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 90px;
+    top: 90px;
+    background-color: aqua;
+    transition: all 2s ease-in-out;
+    /* transform: rotatex(45deg); */
+    /* rotate: z 90deg; */
+    /* transform: scale(2); */
+    
+}
+div:hover{
+    /* transform: rotate(360deg); */
+    /* transform: translatey(-220px); */
+    transform: skew(30deg);
+} 
