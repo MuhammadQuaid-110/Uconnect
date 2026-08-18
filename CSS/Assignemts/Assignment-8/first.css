@@ -2,9 +2,9 @@
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 20px solid blue;
+    border: 20px solid rgb(0, 0, 218);
     border-top: 20px solid black;
-   animation: spin 1s ease 0s infinite normal;
+   animation: spin 1.5s ease-in-out 0s infinite normal;
     
 }
 @keyframes spin{
