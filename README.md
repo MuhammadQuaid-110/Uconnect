@@ -1,2 +1,2 @@
 # Uconnect
-All html5 and css3 Course code and practices question is here
+All html5 and css3 Course code and practices question is presents in this Repository.
